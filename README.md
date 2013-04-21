@@ -1,4 +1,4 @@
 piece-of-py
 ===========
 
-A repo for all my python cods.
+A repo for all my personal projects written in python. 
